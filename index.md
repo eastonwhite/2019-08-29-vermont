@@ -51,7 +51,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 {% if page.eventbrite %}
 <iframe
-  src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
+  src="https://www.eventbrite.com/e/uvm-software-carpentry-tickets-68035930299"
   frameborder="0"
   width="100%"
   height="280px"
